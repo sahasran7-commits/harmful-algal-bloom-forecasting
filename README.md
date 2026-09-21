@@ -4,7 +4,7 @@ An independent data science research framework implementing tree-based classific
 ## 🚀 Interactive Deployment Link
 Click the link below to open the complete source script and launch the interactive full-stack simulation dashboard inside a live cloud execution container:
 
-**[👉 Launch Live Interactive Model Dashboard](YOUR_GRADIO_OR_HUGGINGFACE_URL_HERE)**
+**[👉 Launch Live Interactive Model Dashboard](https://423e252ed73ca06e5b.gradio.live))**
 
 *(Note: Adjust the water metric parameters via the step-calibrated sliders to observe real-time variance shifts in the Random Forest classification vector).*
 
